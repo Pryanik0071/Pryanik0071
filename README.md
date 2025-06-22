@@ -3,7 +3,7 @@
     <div style="margin-left: 20px;">
         <h2 style="margin: 0; color: #58a6ff;">Hello, I'm Dmitry!</h2>
         <p style="margin-top: 5px; font-size: 18px;">Web Developer at 
-            <a style="margin-left: -20px; margin-right: -20px;" href="https://www.dmtel.ru/" target="_blank">
+            <a style="margin-left: -20px; margin-right: -20px; text-decoration: none;" href="https://www.dmtel.ru/" target="_blank">
                 <img src="https://dmtel.ru/img/design/dmtel_logo.svg" 
                     alt="DMTel" 
                     height="24" 
@@ -13,28 +13,28 @@
             | Python & Go | Russia
         </p>
         <div style="display: flex; align-items: center">
-            <a href="https://ru.hexlet.io/u/pryanik" target="_blank" style="margin-right: 10px">
+            <a href="https://ru.hexlet.io/u/pryanik" target="_blank" style="margin-right: 10px; text-decoration: none;">
                 <img src="https://ru.hexlet.io/vite/assets/logo_ru_dark-PhyZTLIf.svg" 
                     alt="Hexlet" 
                     height="24" 
                     width="96"
                 >
             </a>
-             <a href="https://stepik.org/users/112550121/profile" target="_blank">
+             <a href="https://stepik.org/users/112550121/profile" target="_blank" style="text-decoration: none">
                 <img src="https://stepik.org/static/frontend/topbar_logo.svg" 
                     alt="Stepik" 
                     height="24" 
                     width="96"
                 >
             </a>
-            <a style="margin-left: -25px; margin-right: -30px;" href="https://www.codewars.com/users/Pryanik0071" target="_blank">
+            <a style="margin-left: -25px; margin-right: -30px; text-decoration: none;" href="https://www.codewars.com/users/Pryanik0071" target="_blank">
                 <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" 
                     alt="Codewars" 
                     height="24" 
                     width="96"
                 >
             </a>
-            <a href="https://leetcode.com/u/pryanik0071/" target="_blank" style="margin-bottom: 3px;">
+            <a href="https://leetcode.com/u/pryanik0071/" target="_blank" style="margin-bottom: 3px; text-decoration: none;">
                 <img src="leetcode.svg" 
                      width="24"
                      height="24"
