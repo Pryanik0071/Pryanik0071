@@ -1,50 +1,5 @@
-<div id="header" style="display: flex; align-items: center;">
-    <img src="https://tenor.com/ru/view/text-work-computer-working-penguin-gif-16760829579653810809.gif" width="100"/>
-    <div style="margin-left: 20px;">
-        <h2 style="margin: 0; color: #58a6ff;">Hello, I'm Dmitry!</h2>
-        <p style="margin-top: 5px; font-size: 18px;">Web Developer at 
-            <a style="margin-left: -20px; margin-right: -20px; text-decoration: none;" href="https://www.dmtel.ru/" target="_blank">
-                <img src="https://dmtel.ru/img/design/dmtel_logo.svg" 
-                    alt="DMTel" 
-                    height="24" 
-                    width="90"
-                >
-            </a>  
-            | Python & Go | Russia
-        </p>
-        <div style="display: flex; align-items: center">
-            <a href="https://ru.hexlet.io/u/pryanik" target="_blank" style="margin-right: 10px; text-decoration: none;">
-                <img src="https://ru.hexlet.io/vite/assets/logo_ru_dark-PhyZTLIf.svg" 
-                    alt="Hexlet" 
-                    height="24" 
-                    width="96"
-                >
-            </a>
-             <a href="https://stepik.org/users/112550121/profile" target="_blank" style="text-decoration: none">
-                <img src="https://stepik.org/static/frontend/topbar_logo.svg" 
-                    alt="Stepik" 
-                    height="24" 
-                    width="96"
-                >
-            </a>
-            <a style="margin-left: -25px; margin-right: -30px; text-decoration: none;" href="https://www.codewars.com/users/Pryanik0071" target="_blank">
-                <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" 
-                    alt="Codewars" 
-                    height="24" 
-                    width="96"
-                >
-            </a>
-            <a href="https://leetcode.com/u/pryanik0071/" target="_blank" style="margin-bottom: 3px; text-decoration: none;">
-                <img src="leetcode.svg" 
-                     width="24"
-                     height="24"
-                     style="display: inline-block; "
-                     alt="LeetCode"
-                >
-            </a>
-        </div>
-    </div>
-</div>
+| <img src="https://tenor.com/ru/view/text-work-computer-working-penguin-gif-16760829579653810809.gif" width="100"/> | <a href="https://www.dmtel.ru/"><img width="100%" alt="Hello, I'm Dmitry!" src="head.png" /></a> | 
+|----|------|
 
 ## 🛠️ Tech Stack
 
@@ -72,7 +27,6 @@
 <code><img title="Poetry" height="20" src="https://cdn.simpleicons.org/poetry/60A5FA"></code>
 <code><img title="Pytest" height="20" src="https://cdn.simpleicons.org/pytest/0A9EDC"></code>
 <code><img title="Docker" height="20" src="https://cdn.simpleicons.org/docker/2496ED"></code>
-<code><img height="20" alt="Amazon S3" title="Amazon S3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" style="filter: invert(67%) sepia(34%) saturate(3804%) hue-rotate(1deg) brightness(104%) contrast(102%)"></code>
 <code><img height="20" title="Sentry" src="https://cdn.simpleicons.org/sentry/362D59"></code>
 
 ## 📊 GitHub Stats
