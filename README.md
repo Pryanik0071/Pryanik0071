@@ -30,5 +30,5 @@
 <code><img height="20" title="Sentry" src="https://cdn.simpleicons.org/sentry/362D59"></code>
 
 ## 📊 GitHub Stats
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pryanik0071&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Pryanik0071/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pryanik0071&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pryanik0071&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pryanik0071&langs_count=8&layout=compact&theme=buefy&hide_border=true&hide=PHP,SCSS) |
+| ------------- |------------------------------------------------------------------------------------------------------------------------------------------------------------------|
