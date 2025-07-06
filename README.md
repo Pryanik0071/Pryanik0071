@@ -11,6 +11,7 @@
 <code><img height="20" title="Flask" src="https://cdn.simpleicons.org/flask/000000"></code>
 <code><img title="Django" height="20" src="https://cdn.simpleicons.org/django/092E20"></code>
 <code><img height="20" title="Django REST Framework" src="https://cdn.simpleicons.org/django/FF1709"></code>
+<code><img title="FastAPI" height="20" src="https://cdn.simpleicons.org/fastapi/009688"></code>
 
 #### 🌐 Frontend
 <code><img height="20" title="HTML5" src="https://cdn.simpleicons.org/html5/E34F26"></code>
@@ -28,6 +29,7 @@
 <code><img title="Pytest" height="20" src="https://cdn.simpleicons.org/pytest/0A9EDC"></code>
 <code><img title="Docker" height="20" src="https://cdn.simpleicons.org/docker/2496ED"></code>
 <code><img height="20" title="Sentry" src="https://cdn.simpleicons.org/sentry/362D59"></code>
+<code><img title="RabbitMQ" height="20" src="https://cdn.simpleicons.org/rabbitmq/FF6600"></code>
 
 ## 📊 GitHub Stats
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pryanik0071&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pryanik0071&langs_count=8&layout=compact&theme=buefy&hide_border=true&hide=PHP,SCSS) |
