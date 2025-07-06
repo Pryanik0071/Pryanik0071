@@ -25,11 +25,11 @@
 <code><img height="20" title="SQLite" src="https://cdn.simpleicons.org/sqlite/003B57"></code>
 
 #### 🐳 Other
-<code><img title="Poetry" height="20" src="https://cdn.simpleicons.org/poetry/60A5FA"></code>
-<code><img title="Pytest" height="20" src="https://cdn.simpleicons.org/pytest/0A9EDC"></code>
-<code><img title="Docker" height="20" src="https://cdn.simpleicons.org/docker/2496ED"></code>
+<code><img height="20" title="Poetry" src="https://cdn.simpleicons.org/poetry/60A5FA"></code>
+<code><img height="20" title="Pytest" src="https://cdn.simpleicons.org/pytest/0A9EDC"></code>
+<code><img height="20" title="Docker" src="https://cdn.simpleicons.org/docker/2496ED"></code>
 <code><img height="20" title="Sentry" src="https://cdn.simpleicons.org/sentry/362D59"></code>
-<code><img title="RabbitMQ" height="20" src="https://cdn.simpleicons.org/rabbitmq/FF6600"></code>
+<code><img height="20" title="RabbitMQ" src="https://cdn.simpleicons.org/rabbitmq/FF6600"></code>
 
 ## 📊 GitHub Stats
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pryanik0071&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pryanik0071&langs_count=8&layout=compact&theme=buefy&hide_border=true&hide=PHP,SCSS) |
