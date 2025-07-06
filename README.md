@@ -9,8 +9,9 @@
 
 #### 🚀 Backend Frameworks
 <code><img height="20" title="Flask" src="https://cdn.simpleicons.org/flask/000000"></code>
-<code><img title="Django" height="20" src="https://cdn.simpleicons.org/django/092E20"></code>
+<code><img height="20" title="Django" src="https://cdn.simpleicons.org/django/092E20"></code>
 <code><img height="20" title="Django REST Framework" src="https://cdn.simpleicons.org/django/FF1709"></code>
+<code><img height="20" title="FastAPI" src="https://cdn.simpleicons.org/fastapi/009688"></code>
 
 #### 🌐 Frontend
 <code><img height="20" title="HTML5" src="https://cdn.simpleicons.org/html5/E34F26"></code>
