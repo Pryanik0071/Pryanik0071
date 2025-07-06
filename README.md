@@ -1,5 +1,5 @@
 | <img src="https://tenor.com/ru/view/text-work-computer-working-penguin-gif-16760829579653810809.gif" width="100"/> | <a href="https://www.dmtel.ru/"><img width="100%" alt="Hello, I'm Dmitry!" src="head.png" /></a> | 
-|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+|----|----|
 
 ## 🛠️ Tech Stack
 
@@ -14,7 +14,7 @@
 
 #### 🌐 Frontend
 <code><img height="20" title="HTML5" src="https://cdn.simpleicons.org/html5/E34F26"></code>
-<code><img height="20" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></code>
+<code><img height="20" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></code>
 <code><img height="20" title="SASS" src="https://cdn.simpleicons.org/sass/CC6699"></code>
 <code><img height="20" title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E"></code>
 
@@ -31,4 +31,4 @@
 
 ## 📊 GitHub Stats
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pryanik0071&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pryanik0071&langs_count=8&layout=compact&theme=buefy&hide_border=true&hide=PHP,SCSS) |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|----|----|
