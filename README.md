@@ -4,8 +4,8 @@
 ## 🛠️ Tech Stack
 
 #### 🧠 Langs
-<a href="https://www.python.org/"><code><img height="20" style="height: 20px" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
-<a href="https://go.dev/"><code><img height="20" style="height: 20px" title="Go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code></a>
+<a href="https://www.python.org/" target="_blank"><code><img height="20" style="height: 20px" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
+<a href="https://go.dev/" target="_blank"><code><img height="20" style="height: 20px" title="Go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code></a>
 
 #### 🚀 Backend Frameworks
 <code><img height="20" style="height: 20px" title="Flask" src="https://cdn.simpleicons.org/flask/000000"></code>
