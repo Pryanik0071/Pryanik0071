@@ -32,5 +32,5 @@
 <code><img height="20" style="height: 20px" title="RabbitMQ" src="https://cdn.simpleicons.org/rabbitmq/FF6600"></code>
 
 ## 📊 GitHub Stats
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pryanik0071&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pryanik0071&exclude_repo=reactbook&langs_count=8&layout=compact&theme=buefy&hide_border=true&hide=PHP,SCSS) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pryanik0071&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pryanik0071&exclude_repo=reactbook,Pryanik0071.github.io&langs_count=8&layout=compact&theme=buefy&hide_border=true&hide=PHP,SCSS) |
 |----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
