@@ -6,6 +6,7 @@
 #### 🧠 Langs
 <a href="https://www.python.org/"><code><img height="20" style="height: 20px" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
 <a href="https://go.dev/"><code><img height="20" style="height: 20px" title="Go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code></a>
+<code><img height="20" style="height: 20px" title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E"></code>
 
 #### 🚀 Backend Frameworks
 <code><img height="20" style="height: 20px" title="Flask" src="https://cdn.simpleicons.org/flask/000000"></code>
@@ -17,7 +18,8 @@
 <code><img height="20" style="height: 20px" title="HTML5" src="https://cdn.simpleicons.org/html5/E34F26"></code>
 <code><img height="20" style="height: 20px" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></code>
 <code><img height="20" style="height: 20px" title="SASS" src="https://cdn.simpleicons.org/sass/CC6699"></code>
-<code><img height="20" style="height: 20px" title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E"></code>
+<code><img height="20" style="height: 20px" title="React" src="https://cdn.simpleicons.org/react/61DAFB"></code>
+<code><img height="20" style="height: 20px" title="Vite" src="https://cdn.simpleicons.org/vite/646CFF"></code>
 
 #### 🗄 Databases
 <code><img height="20" style="height: 20px" title="ClickHouse" src="https://cdn.simpleicons.org/clickhouse/FFCC01"></code>
