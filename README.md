@@ -1,4 +1,4 @@
-| <img src="https://tenor.com/ru/view/text-work-computer-working-penguin-gif-16760829579653810809.gif" width="100"/> | <a href="https://www.dmtel.ru/"><img width="100%" alt="Hello, I'm Dmitry!" src="head.png" /></a> | 
+| <img src="https://tenor.com/ru/view/text-work-computer-working-penguin-gif-16760829579653810809.gif" width="100"/> | <img width="100%" alt="Hello, I'm Dmitry!" src="head.png" /> | 
 |----|----|
 
 ## 🛠️ Tech Stack
